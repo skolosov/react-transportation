@@ -1,0 +1,33 @@
+{
+    "extends": [
+        "react-app",
+        "react-app/jest"
+    ],
+    "rules": {
+        "require-jsdoc": "off",
+        "quotes": [
+            "warn",
+            "single"
+        ],
+        "no-console": "warn",
+        "prefer-const": "warn",
+        "indent": "off",
+        "max-len": [
+            "error",
+            {
+                "code": 120
+            }
+        ],
+        "semi": [
+            "warn",
+            "always"
+        ],
+        "import/no-unresolved": "off",
+        "import/prefer-default-export": "off",
+        "no-param-reassign": "off",
+        "no-case-declarations": "off",
+        "no-underscore-dangle": "off",
+        "no-shadow": "off",
+        "no-plusplus": "off"
+    }
+}
