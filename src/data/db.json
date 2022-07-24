@@ -1,0 +1,76 @@
+{
+    "applications": [
+        {
+            "id": 1,
+            "name": "Заявка 1",
+            "description": "in arcu cursus euismod quis viverra nibh cras pulvinar mattis nunc sed blandit libero volutpat sed cras ornare arcu dui vivamus arcu felis bibendum ut tristique et egestas quis ipsum",
+            "divisionId": 2,
+            "lat": 56.31515623719932,
+            "lng": 43.95390264310145
+        },
+        {
+            "id": 2,
+            "name": "Заявка 2",
+            "description": "consectetur adipiscing elit pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas integer eget aliquet nibh praesent tristique magna sit amet purus gravida quis blandit turpis",
+            "divisionId": 5,
+            "lat": 56.32099915520157,
+            "lng": 43.982110371292755
+        },
+        {
+            "id": 3,
+            "name": "Заявка 3",
+            "description": "consectetur adipiscing elit pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas integer eget aliquet nib",
+            "divisionId": 3,
+            "lat": 56.33179013744575,
+            "lng": 43.9402191425112
+        },
+        {
+            "id": 4,
+            "name": "Заявка 4",
+            "description": "netus et malesuada fames ac turpis egestas integer eget aliquet nib",
+            "divisionId": 4,
+            "lat": 56.3135376740936,
+            "lng": 43.995269113229966
+        },
+        {
+            "id": 5,
+            "name": "Заявка 5",
+            "description": "consectetur adipiscing elit pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas integer eget aliquet nibh praesent tristique magna sit amet purus gravida quis blandit turpis",
+            "divisionId": 1,
+            "lat": 56.304610542337315,
+            "lng": 43.98055453879432
+        }
+    ],
+    "transportation_department": [
+        {
+            "id": 1,
+            "name": "Department 1",
+            "lat": 56.31470399853128,
+            "lng": 43.99066329002381
+        },
+        {
+            "id": 2,
+            "name": "Department 2",
+            "lat": 56.33852254543845,
+            "lng": 43.95621299743652
+        },
+        {
+            "id": 3,
+            "name": "Department 3",
+            "lat": 56.33209942603132,
+            "lng": 43.94878864288331
+        },
+        {
+            "id": 4,
+            "name": "Department 4",
+            "lat": 56.3094671607812,
+            "lng": 43.98694038391113
+        },
+        {
+            "id": 5,
+            "name": "Department 5",
+            "lat": 56.31675093081669,
+            "lng": 43.99292707443238
+        }
+    ]
+}
